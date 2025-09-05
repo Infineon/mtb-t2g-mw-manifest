@@ -13,7 +13,7 @@
         </ul>
     ]]></desc>
     <category>Ethernet</category>
-    <req_capabilities>ethernet</req_capabilities>
+    <req_capabilities>ethernet t2gbh_lite</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
         <num>Latest 1.X release</num>
@@ -42,7 +42,7 @@
         </ul>
     ]]></desc>
     <category>Middleware</category>
-    <req_capabilities>ethernet</req_capabilities>
+    <req_capabilities>ethernet t2gbh_lite</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
         <num>Latest 3.X release</num>
@@ -70,7 +70,7 @@
         </ul>
     ]]></desc>
     <category>Ethernet</category>
-    <req_capabilities>ethernet</req_capabilities>
+    <req_capabilities>ethernet t2gbh_lite</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
         <num>Latest 1.X release</num>
@@ -92,7 +92,7 @@
         This library enables the use of AWS IoT's FOTA feature on TRAVEO T2G MCUs. It also supports firmware download on internal Code Flash of T2G devices.
     ]]></desc>
     <category>Ethernet</category>
-    <req_capabilities>ethernet</req_capabilities>
+    <req_capabilities>ethernet t2gbh_lite</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
         <num>Latest 1.X release</num>
